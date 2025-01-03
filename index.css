@@ -1,0 +1,71 @@
+     body {
+    font-family: sans-serif;
+    font-size:20px;
+}
+
+header {
+    background-color: rgb(128, 202, 165);
+    padding: 5px;
+}
+
+h1 {
+    font-size: 36px;
+    color: rgb(49, 13, 179);
+    font-weight: normal;
+    padding-bottom: 5px;
+    text-align: center;
+}
+
+h2 {
+    color:rgb(168, 135, 222);
+    background-color: rgb(39, 39, 230);
+    text-align:center;
+    border:5px dashed rgba(250, 142, 0, 0.911);
+}
+
+main img{
+    widht:200px; 
+    height:200px;
+    border:2px dashed rgb(58, 45, 236);
+}
+
+main a{
+    color:brown;
+    font-size:25px;
+    border:3px dashed #813535;
+}
+
+.logo{
+    width: 150;
+    height: 167px;
+}
+
+nav{
+    margin: 10px 0px;
+    text-align: center;
+}
+
+table{
+    border:5px dashed #98e012;
+    border-collapse:collapse;
+    background-color:rgb(132, 180, 114);
+}
+
+td{
+   border:1px dashed #98d12d; 
+}
+
+
+nav a {
+    text-transform: none;
+    padding-right: 60px;
+    color: black;
+}
+
+footer{
+    background-color:rgb(215, 216, 137);
+}
+
+main{
+    background-color: rgb(253, 220, 128);
+}
